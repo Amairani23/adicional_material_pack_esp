@@ -1,0 +1,70 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  position: relative;
+  display: flex;
+  background-color: #f2f2f2;
+}
+
+.logo {
+  width: 154px;
+  height: 31px;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 1;
+}
+
+.header__title {
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+  max-width: 730px;
+  margin: auto 0 auto 64px;
+  z-index: 1;
+}
+
+.header__content {
+  max-width: 388px;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  z-index: 1;
+}
+
+.header__subtitle {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.header__main {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.header__main-illustration {
+  max-width: 756px;
+  max-height: 600px;
+}
+
+.header__square {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  overflow-x: clip;
+}
+
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+}

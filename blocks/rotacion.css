@@ -1,0 +1,13 @@
+.rotation {
+  transform: rotate(15grad);
+  animation: girar-horario 20s linear infinite;
+}
+
+@keyframes girar-horario {
+  from {
+    transform: rotate(15deg); /* Empieza en 15° */
+  }
+  to {
+    transform: rotate(375deg); /* Termina en 375° (un giro completo + 15°) */
+  }
+}
