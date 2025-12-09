@@ -5,6 +5,7 @@
   position: relative;
   display: flex;
   background-color: #f2f2f2;
+  overflow-x: clip;
 }
 
 .logo {
@@ -60,7 +61,6 @@
   position: absolute;
   top: 64px;
   right: 0;
-  overflow-x: clip;
 }
 
 .header__square-pic {
