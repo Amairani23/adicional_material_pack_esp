@@ -46,4 +46,4 @@ Estan son las figuras en las que se agrego animación:
 
 ![imagen del header en animacion](https://github.com/Amairani23/adicional_material_pack_esp/blob/8359133c2bea6546e951cf2946463e68742c96aa/images/Imagen-header-animacion.jpg)
 
-![imagen del kaufman en animacion](hhttps://github.com/Amairani23/adicional_material_pack_esp/blob/8359133c2bea6546e951cf2946463e68742c96aa/images/Imagen-kaufman-animacion.jpg)
+![imagen del kaufman en animacion](https://github.com/Amairani23/adicional_material_pack_esp/blob/8359133c2bea6546e951cf2946463e68742c96aa/images/Imagen-kaufman-animacion.jpg)
