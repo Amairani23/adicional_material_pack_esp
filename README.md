@@ -44,4 +44,6 @@ También se puso en practica el modelo BEM y su modelo de organización de archi
 
 Estan son las figuras en las que se agrego animación:
 
-[![Página web, Aprender a aprender](tripleten "Página web, Aprender a aprender")](http://gthh "Página web, Aprender a aprender")
+![imagen del header en animacion](https://github.com/Amairani23/adicional_material_pack_esp/blob/8359133c2bea6546e951cf2946463e68742c96aa/images/Imagen-header-animacion.jpg)
+
+![imagen del kaufman en animacion](hhttps://github.com/Amairani23/adicional_material_pack_esp/blob/8359133c2bea6546e951cf2946463e68742c96aa/images/Imagen-kaufman-animacion.jpg)
